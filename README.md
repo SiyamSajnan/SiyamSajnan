@@ -11,7 +11,7 @@ I'm a passionate data scientist and full-stack developer with an MSc in AI and a
 [![My Skills](https://skillicons.dev/icons?i=js,express,nodejs,mongo,postman)](https://skillicons.dev)
 
 ### Frontend:
-[![My Skills](https://skillicons.dev/icons?i=ts,html,css,react,next,tailwindcss,threejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,react,next,tailwindcss,threejs,html,css)](https://skillicons.dev)
 
 ### CI/CD:
 [![My Skills](https://skillicons.dev/icons?i=docker,git)](https://skillicons.dev)
