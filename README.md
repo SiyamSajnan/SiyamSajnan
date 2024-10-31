@@ -13,6 +13,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=py,tensorflow,pytorch,a,js,express,mongo,postman,b,ts,react,next,tailwindcss,html,css)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=java,c,postgres,a,docker,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,c,postgres,a,docker,git,a,s,d,f,g,h,j,k,l)](https://skillicons.dev)
 
 
