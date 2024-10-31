@@ -5,11 +5,7 @@
 - I love working with data to derive meaningful insights and build innovative solutions.
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=js,express,nodejs,mongo,postman)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=ts,react,next,tailwindcss,threejs,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn,a,js,express,nodejs,mongo,postman,b,ts,react,next,tailwindcss,html,css)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=docker,git)](https://skillicons.dev)
 
