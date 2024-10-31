@@ -2,7 +2,7 @@
 
 ## About Me
 - Data scientist and full-stack developer with an MSc in AI and an MSc in Business Data Analytics.
-- I love working with data to derive meaningful insights and build innovative solutions
+- I love working with data to derive meaningful insights and build innovative solutions.
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn)](https://skillicons.dev)
