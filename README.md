@@ -4,7 +4,8 @@
 I'm a passionate data scientist and full-stack developer with a background in AI and data analytics. I love working with data to derive meaningful insights and build innovative solutions. With a keen interest in machine learning and web development, I enjoy tackling challenging problems and sharing my knowledge with others.
 
 ## Skills
-Backend: [![My Skills](https://skillicons.dev/icons?i=js,ts,express,nodejs,mongo,postman)](https://skillicons.dev)
+###Backend: 
+[![My Skills](https://skillicons.dev/icons?i=js,ts,express,nodejs,mongo,postman)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,react,next,tailwindcss)](https://skillicons.dev)
 
