@@ -5,7 +5,7 @@ I'm a passionate data scientist and full-stack developer with an MSc in AI and a
 
 ## Skills
 ### Data Science:
-[![My Skills](https://skillicons.dev/icons?i=py,tensorflow,pytorch,huggingface,sklearn)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn)](https://skillicons.dev)
 
 ### Backend: 
 [![My Skills](https://skillicons.dev/icons?i=js,express,nodejs,mongo,postman)](https://skillicons.dev)
@@ -15,3 +15,6 @@ I'm a passionate data scientist and full-stack developer with an MSc in AI and a
 
 ### CI/CD:
 [![My Skills](https://skillicons.dev/icons?i=docker,git)](https://skillicons.dev)
+
+### Other skills:
+[![My Skills](https://skillicons.dev/icons?i=java,c,postgres,mysql)](https://skillicons.dev)
